@@ -1,12 +1,12 @@
 import './App.css';
-import SearchBar from './SearchBar';
+import Typed from './Typed';
 
 function App() {
   return (
     <div className="app">
       <section className="section">
         <div className="container">
-          <SearchBar />
+          <Typed />
         </div>
       </section>
     </div>
