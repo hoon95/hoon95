@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-
+  <img src="https://img.shields.io/badge/React-1572B6?style=flat-square&logo=react&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
