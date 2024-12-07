@@ -1,9 +1,9 @@
 ## ⚡️Skills
 <p align="center">
     <h3>Front-end</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,mui,emotion,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,emotion" />
     <h3>Back-end</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
     <h3>ETC</h3>
     <img src="https://skillicons.dev/icons?i=git,vscode,notion,figma" />
 </p>
