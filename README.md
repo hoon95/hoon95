@@ -5,7 +5,11 @@
 - 👨‍💻 I’m currently learning on front-end development technologies like React, TypeScript.
 - ⚡ Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💪🏼 Exercise in gym to gain weight
-<br/>
+<br/><br/><br/>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br/><br/><br/>
 
 ## 🛠 Languages & Tools
 <img src="https://skillicons.dev/icons?i=react,typescript,emotion,vite,supabase" /><br/>
