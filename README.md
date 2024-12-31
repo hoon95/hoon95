@@ -1,11 +1,13 @@
-## ⚡️Skills
-<p align="center">
-    <h3>Front-end</h3>
-    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,emotion" />
-    <h3>Back-end</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
-    <h3>ETC</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,notion,figma" />
-</p>
+# Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoon95&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+- 👨‍💻 I’m currently learning on front-end development technologies like React, TypeScript.
+- ⚡ Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Exercise in gym to gain weight
+<br/>
+
+## 🛠 Languages & Tools
+<img src="https://skillicons.dev/icons?i=react,typescript,emotion,vite,supabase" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgresql" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,notion,figma" />
