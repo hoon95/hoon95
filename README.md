@@ -10,8 +10,3 @@
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <br/><br/><br/>
-
-## 🛠 Languages & Tools
-<img src="https://skillicons.dev/icons?i=react,typescript,emotion,vite,supabase" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgresql" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,notion,figma" />
