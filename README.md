@@ -2,10 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I’m currently learning on front-end development technologies like React, TypeScript.
+- 👨‍💻 I’m currently learning on Front-end development technologies like React, TypeScript.
 - ⚡ Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💪🏼 Exercise in gym to gain weight
-<br/><br/><br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon95\&show_icons=true\&rank_icon=github)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
